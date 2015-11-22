@@ -280,3 +280,4 @@ define('PRODUCT_REMOVED', '%s has been removed from your Cart');
 
 // bootstrap helper
 define('MODULE_CONTENT_BOOTSTRAP_ROW_DESCRIPTION', '');
+?>
